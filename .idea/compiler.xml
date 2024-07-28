@@ -9,13 +9,5 @@
         <module name="customer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="amqp" target="17" />
-      <module name="apigw" target="17" />
-      <module name="clients" target="17" />
-      <module name="eureka-server" target="17" />
-      <module name="fraud" target="17" />
-      <module name="notification" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

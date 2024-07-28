@@ -4,9 +4,9 @@ spring:
     application:
         name: customer
     datasource:
-        password: vaishnavi
+        password: pavan
         url: jdbc:postgresql://localhost:5432/customer
-        username: vaishnavi
+        username: pavan
     jpa:
         hibernate:
             ddl-auto: create-drop
